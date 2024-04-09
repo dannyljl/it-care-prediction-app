@@ -1,0 +1,5 @@
+@PredictionApplication_HostAddress = http://localhost:5049
+
+Accept: application/json
+
+###

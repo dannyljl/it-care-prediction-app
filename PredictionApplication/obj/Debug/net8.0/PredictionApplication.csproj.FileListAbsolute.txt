@@ -30,3 +30,4 @@ C:\Users\danny\source\repos\PredictionApplication\PredictionApplication\obj\Debu
 C:\Users\danny\source\repos\PredictionApplication\PredictionApplication\obj\Debug\net8.0\PredictionApplication.pdb
 C:\Users\danny\source\repos\PredictionApplication\PredictionApplication\obj\Debug\net8.0\PredictionApplication.genruntimeconfig.cache
 C:\Users\danny\source\repos\PredictionApplication\PredictionApplication\obj\Debug\net8.0\ref\PredictionApplication.dll
+C:\Users\danny\source\repos\PredictionApplication\PredictionApplication\obj\Debug\net8.0\PredictionApplication.sourcelink.json

@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|c:\\users\\danny\\source\\repos\\predictionapplication\\predictionapplication\\controllers\\lettercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|solutionrelative:predictionapplication\\controllers\\lettercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|c:\\users\\danny\\source\\repos\\predictionapplication\\predictionapplication\\services\\letterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|solutionrelative:predictionapplication\\services\\letterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|c:\\users\\danny\\source\\repos\\predictionapplication\\predictionapplication\\services\\iletterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|solutionrelative:predictionapplication\\services\\iletterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|c:\\users\\danny\\source\\repos\\predictionapplication\\predictionapplication\\exceptions\\unsupportedenumtypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|solutionrelative:predictionapplication\\exceptions\\unsupportedenumtypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|c:\\users\\danny\\source\\repos\\predictionapplication\\predictionapplication\\enums\\sicknesstype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|solutionrelative:predictionapplication\\enums\\sicknesstype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|c:\\users\\danny\\source\\repos\\predictionapplication\\predictionapplication\\enums\\lettertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|solutionrelative:predictionapplication\\enums\\lettertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|c:\\users\\danny\\source\\repos\\predictionapplication\\predictionapplication\\enums\\sicknesstype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|solutionrelative:predictionapplication\\enums\\sicknesstype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|c:\\users\\danny\\source\\repos\\predictionapplication\\predictionapplication\\exceptions\\unsupportedenumtypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|solutionrelative:predictionapplication\\exceptions\\unsupportedenumtypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|c:\\users\\danny\\source\\repos\\predictionapplication\\predictionapplication\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|solutionrelative:predictionapplication\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|c:\\users\\danny\\source\\repos\\predictionapplication\\predictionapplication\\controllers\\lettercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|solutionrelative:predictionapplication\\controllers\\lettercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|c:\\users\\danny\\source\\repos\\predictionapplication\\predictionapplication\\services\\iletterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|solutionrelative:predictionapplication\\services\\iletterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|c:\\users\\danny\\source\\repos\\predictionapplication\\predictionapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -82,17 +82,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LetterService.cs",
               "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionApplication\\Services\\LetterService.cs",
               "RelativeDocumentMoniker": "PredictionApplication\\Services\\LetterService.cs",
               "ToolTip": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionApplication\\Services\\LetterService.cs",
               "RelativeToolTip": "PredictionApplication\\Services\\LetterService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAANAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDkAAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-08T14:34:36.377Z",
               "EditorCaption": ""
@@ -107,8 +107,7 @@
               "RelativeToolTip": "PredictionApplication\\Models\\Client.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAmwB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T14:25:42.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T14:25:42.289Z"
             },
             {
               "$type": "Document",
@@ -120,8 +119,7 @@
               "RelativeToolTip": "PredictionApplication\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T14:25:26.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T14:25:26.702Z"
             },
             {
               "$type": "Document",
@@ -138,13 +136,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "LetterController.cs",
               "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionApplication\\Controllers\\LetterController.cs",
               "RelativeDocumentMoniker": "PredictionApplication\\Controllers\\LetterController.cs",
               "ToolTip": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionApplication\\Controllers\\LetterController.cs",
               "RelativeToolTip": "PredictionApplication\\Controllers\\LetterController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA3AAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-09T08:33:42.015Z",
               "EditorCaption": ""
@@ -164,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "LetterType.cs",
               "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionApplication\\Enums\\LetterType.cs",
               "RelativeDocumentMoniker": "PredictionApplication\\Enums\\LetterType.cs",
@@ -177,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "UnsupportedEnumTypeException.cs",
               "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionApplication\\Exceptions\\UnsupportedEnumTypeException.cs",
               "RelativeDocumentMoniker": "PredictionApplication\\Exceptions\\UnsupportedEnumTypeException.cs",
@@ -190,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "ILetterService.cs",
               "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionApplication\\Services\\ILetterService.cs",
               "RelativeDocumentMoniker": "PredictionApplication\\Services\\ILetterService.cs",
@@ -198,8 +196,7 @@
               "RelativeToolTip": "PredictionApplication\\Services\\ILetterService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T08:33:01.246Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T08:33:01.246Z"
             },
             {
               "$type": "Document",
@@ -211,21 +208,19 @@
               "RelativeToolTip": "PredictionTestProject\\UnitTest1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T09:09:13.477Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T09:09:13.477Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "PredictionTestProject",
+              "Title": "PredictionTestProject.csproj",
               "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionTestProject\\PredictionTestProject.csproj",
               "RelativeDocumentMoniker": "PredictionTestProject\\PredictionTestProject.csproj",
               "ToolTip": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionTestProject\\PredictionTestProject.csproj",
               "RelativeToolTip": "PredictionTestProject\\PredictionTestProject.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-09T09:10:02.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T09:10:02.498Z"
             },
             {
               "$type": "Document",
@@ -237,8 +232,7 @@
               "RelativeToolTip": "PredictionTestProject\\Services\\LetterServiceTests.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T09:11:52.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T09:11:52.055Z"
             },
             {
               "$type": "Document",
@@ -250,8 +244,7 @@
               "RelativeToolTip": "PredictionApplication\\Properties\\launchSettings.json",
               "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-09T09:19:41.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T09:19:41.724Z"
             },
             {
               "$type": "Document",
@@ -263,8 +256,7 @@
               "RelativeToolTip": "PredictionApplication\\PredictionApplication.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-04-09T09:19:15.438Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T09:19:15.438Z"
             },
             {
               "$type": "Document",
@@ -276,8 +268,7 @@
               "RelativeToolTip": "PredictionApplication\\Models\\Letter.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T14:25:59.073Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T14:25:59.073Z"
             },
             {
               "$type": "Document",
@@ -288,8 +279,7 @@
               "ToolTip": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionApplication\\PredictionApplication.csproj",
               "RelativeToolTip": "PredictionApplication\\PredictionApplication.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-08T13:46:29.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T13:46:29.037Z"
             },
             {
               "$type": "Document",
@@ -301,8 +291,7 @@
               "RelativeToolTip": "PredictionApplication\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-08T14:25:24.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T14:25:24.674Z"
             },
             {
               "$type": "Document",
@@ -314,8 +303,7 @@
               "RelativeToolTip": "PredictionApplication\\PredictionApplication.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-08T14:25:18.703Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T14:25:18.703Z"
             }
           ]
         }

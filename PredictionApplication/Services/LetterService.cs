@@ -55,6 +55,7 @@ namespace PredictionApplication.Services
                 {
                     return new Letter(client, sicknessType, LetterType.TelephoneAppointment);
                 }
+                return new Letter(client, sicknessType, LetterType.PhysicalVisit);
             }
             throw new UnsupportedEnumTypeException("Sickness type not found, type:" + sicknessType.ToString());
         }

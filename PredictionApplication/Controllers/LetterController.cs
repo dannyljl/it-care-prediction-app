@@ -19,7 +19,7 @@ namespace PredictionApplication.Controllers
         }
 
         [HttpPost("sicknesstype")]
-        public IActionResult Get(SicknessType sicknessType, [FromBody] Client client)
+        public IActionResult Post(SicknessType sicknessType, [FromBody] Client client)
         {
             try
             {

@@ -11,24 +11,52 @@
       "RelativeMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|solutionrelative:predictionapplication\\services\\letterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|c:\\users\\danny\\source\\repos\\predictionapplication\\predictionapplication\\enums\\lettertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|solutionrelative:predictionapplication\\enums\\lettertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|c:\\users\\danny\\source\\repos\\predictionapplication\\predictionapplication\\services\\iletterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|solutionrelative:predictionapplication\\services\\iletterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|c:\\users\\danny\\source\\repos\\predictionapplication\\predictionapplication\\enums\\sicknesstype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|solutionrelative:predictionapplication\\enums\\sicknesstype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|c:\\users\\danny\\source\\repos\\predictionapplication\\predictionapplication\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|solutionrelative:predictionapplication\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|c:\\users\\danny\\source\\repos\\predictionapplication\\predictionapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|solutionrelative:predictionapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{939C9BE7-29C7-4DA5-8F50-952775CEF916}|PredictionTestProject\\PredictionTestProject.csproj|c:\\users\\danny\\source\\repos\\predictionapplication\\predictiontestproject\\services\\letterservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{939C9BE7-29C7-4DA5-8F50-952775CEF916}|PredictionTestProject\\PredictionTestProject.csproj|solutionrelative:predictiontestproject\\services\\letterservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{939C9BE7-29C7-4DA5-8F50-952775CEF916}|PredictionTestProject\\PredictionTestProject.csproj|c:\\users\\danny\\source\\repos\\predictionapplication\\predictiontestproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{939C9BE7-29C7-4DA5-8F50-952775CEF916}|PredictionTestProject\\PredictionTestProject.csproj|solutionrelative:predictiontestproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|c:\\users\\danny\\source\\repos\\predictionapplication\\predictionapplication\\models\\letter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|solutionrelative:predictionapplication\\models\\letter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|c:\\users\\danny\\source\\repos\\predictionapplication\\predictionapplication\\interfaces\\isicknesstype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|solutionrelative:predictionapplication\\interfaces\\isicknesstype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|c:\\users\\danny\\source\\repos\\predictionapplication\\predictionapplication\\extensions\\agefromdatetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|solutionrelative:predictionapplication\\extensions\\agefromdatetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|c:\\users\\danny\\source\\repos\\predictionapplication\\predictionapplication\\exceptions\\unsupportedenumtypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|solutionrelative:predictionapplication\\exceptions\\unsupportedenumtypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|c:\\users\\danny\\source\\repos\\predictionapplication\\predictionapplication\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|solutionrelative:predictionapplication\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|c:\\users\\danny\\source\\repos\\predictionapplication\\predictionapplication\\enums\\sicknesstype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|solutionrelative:predictionapplication\\enums\\sicknesstype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|c:\\users\\danny\\source\\repos\\predictionapplication\\predictionapplication\\services\\iletterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|solutionrelative:predictionapplication\\services\\iletterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|c:\\users\\danny\\source\\repos\\predictionapplication\\predictionapplication\\enums\\lettertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|solutionrelative:predictionapplication\\enums\\lettertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|c:\\users\\danny\\source\\repos\\predictionapplication\\predictionapplication\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|solutionrelative:predictionapplication\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|c:\\users\\danny\\source\\repos\\predictionapplication\\predictionapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -39,28 +67,12 @@
       "RelativeMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|solutionrelative:predictionapplication\\predictionapplication.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|c:\\users\\danny\\source\\repos\\predictionapplication\\predictionapplication\\models\\letter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|solutionrelative:predictionapplication\\models\\letter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|c:\\users\\danny\\source\\repos\\predictionapplication\\predictionapplication\\predictionapplication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|solutionrelative:predictionapplication\\predictionapplication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|c:\\users\\danny\\source\\repos\\predictionapplication\\predictionapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|solutionrelative:predictionapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|c:\\users\\danny\\source\\repos\\predictionapplication\\predictionapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|solutionrelative:predictionapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{939C9BE7-29C7-4DA5-8F50-952775CEF916}|PredictionTestProject\\PredictionTestProject.csproj|c:\\users\\danny\\source\\repos\\predictionapplication\\predictiontestproject\\services\\letterservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{939C9BE7-29C7-4DA5-8F50-952775CEF916}|PredictionTestProject\\PredictionTestProject.csproj|solutionrelative:predictiontestproject\\services\\letterservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|c:\\users\\danny\\source\\repos\\predictionapplication\\predictionapplication\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|solutionrelative:predictionapplication\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E38EF0D3-058B-4A5C-803F-24EF3CE4D89F}|PredictionApplication\\PredictionApplication.csproj|c:\\users\\danny\\source\\repos\\predictionapplication\\predictionapplication\\predictionapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -69,10 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{939C9BE7-29C7-4DA5-8F50-952775CEF916}|PredictionTestProject\\PredictionTestProject.csproj|c:\\users\\danny\\source\\repos\\predictionapplication\\predictiontestproject\\predictiontestproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{939C9BE7-29C7-4DA5-8F50-952775CEF916}|PredictionTestProject\\PredictionTestProject.csproj|solutionrelative:predictiontestproject\\predictiontestproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{939C9BE7-29C7-4DA5-8F50-952775CEF916}|PredictionTestProject\\PredictionTestProject.csproj|c:\\users\\danny\\source\\repos\\predictionapplication\\predictiontestproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{939C9BE7-29C7-4DA5-8F50-952775CEF916}|PredictionTestProject\\PredictionTestProject.csproj|solutionrelative:predictiontestproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,48 +90,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LetterService.cs",
-              "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionApplication\\Services\\LetterService.cs",
-              "RelativeDocumentMoniker": "PredictionApplication\\Services\\LetterService.cs",
-              "ToolTip": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionApplication\\Services\\LetterService.cs",
-              "RelativeToolTip": "PredictionApplication\\Services\\LetterService.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAowDkAAABSAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T14:34:36.377Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 3,
               "Title": "Client.cs",
               "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionApplication\\Models\\Client.cs",
               "RelativeDocumentMoniker": "PredictionApplication\\Models\\Client.cs",
               "ToolTip": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionApplication\\Models\\Client.cs",
               "RelativeToolTip": "PredictionApplication\\Models\\Client.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAmwB0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T14:25:42.289Z"
+              "WhenOpened": "2024-04-08T14:25:42.289Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionApplication\\Program.cs",
-              "RelativeDocumentMoniker": "PredictionApplication\\Program.cs",
-              "ToolTip": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionApplication\\Program.cs",
-              "RelativeToolTip": "PredictionApplication\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA/AAAA",
+              "DocumentIndex": 6,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionTestProject\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "PredictionTestProject\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionTestProject\\UnitTest1.cs",
+              "RelativeToolTip": "PredictionTestProject\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T14:25:26.702Z"
+              "WhenOpened": "2024-04-09T09:09:13.477Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
+              "Title": "Letter.cs",
+              "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionApplication\\Models\\Letter.cs",
+              "RelativeDocumentMoniker": "PredictionApplication\\Models\\Letter.cs",
+              "ToolTip": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionApplication\\Models\\Letter.cs",
+              "RelativeToolTip": "PredictionApplication\\Models\\Letter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T14:25:59.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Gender.cs",
               "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionApplication\\Enums\\Gender.cs",
               "RelativeDocumentMoniker": "PredictionApplication\\Enums\\Gender.cs",
@@ -136,33 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LetterController.cs",
-              "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionApplication\\Controllers\\LetterController.cs",
-              "RelativeDocumentMoniker": "PredictionApplication\\Controllers\\LetterController.cs",
-              "ToolTip": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionApplication\\Controllers\\LetterController.cs",
-              "RelativeToolTip": "PredictionApplication\\Controllers\\LetterController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T08:33:42.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SicknessType.cs",
-              "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionApplication\\Enums\\SicknessType.cs",
-              "RelativeDocumentMoniker": "PredictionApplication\\Enums\\SicknessType.cs",
-              "ToolTip": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionApplication\\Enums\\SicknessType.cs",
-              "RelativeToolTip": "PredictionApplication\\Enums\\SicknessType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T14:35:56.563Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "LetterType.cs",
               "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionApplication\\Enums\\LetterType.cs",
               "RelativeDocumentMoniker": "PredictionApplication\\Enums\\LetterType.cs",
@@ -175,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "UnsupportedEnumTypeException.cs",
               "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionApplication\\Exceptions\\UnsupportedEnumTypeException.cs",
               "RelativeDocumentMoniker": "PredictionApplication\\Exceptions\\UnsupportedEnumTypeException.cs",
@@ -188,7 +172,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
+              "Title": "LetterServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionTestProject\\Services\\LetterServiceTests.cs",
+              "RelativeDocumentMoniker": "PredictionTestProject\\Services\\LetterServiceTests.cs",
+              "ToolTip": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionTestProject\\Services\\LetterServiceTests.cs",
+              "RelativeToolTip": "PredictionTestProject\\Services\\LetterServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T09:11:52.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionApplication\\Program.cs",
+              "RelativeDocumentMoniker": "PredictionApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionApplication\\Program.cs",
+              "RelativeToolTip": "PredictionApplication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T14:25:26.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ILetterService.cs",
               "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionApplication\\Services\\ILetterService.cs",
               "RelativeDocumentMoniker": "PredictionApplication\\Services\\ILetterService.cs",
@@ -196,23 +206,77 @@
               "RelativeToolTip": "PredictionApplication\\Services\\ILetterService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T08:33:01.246Z"
+              "WhenOpened": "2024-04-09T08:33:01.246Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionTestProject\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "PredictionTestProject\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionTestProject\\UnitTest1.cs",
-              "RelativeToolTip": "PredictionTestProject\\UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "LetterService.cs",
+              "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionApplication\\Services\\LetterService.cs",
+              "RelativeDocumentMoniker": "PredictionApplication\\Services\\LetterService.cs",
+              "ToolTip": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionApplication\\Services\\LetterService.cs",
+              "RelativeToolTip": "PredictionApplication\\Services\\LetterService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T09:09:13.477Z"
+              "WhenOpened": "2024-04-08T14:34:36.377Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 0,
+              "Title": "LetterController.cs",
+              "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionApplication\\Controllers\\LetterController.cs",
+              "RelativeDocumentMoniker": "PredictionApplication\\Controllers\\LetterController.cs",
+              "ToolTip": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionApplication\\Controllers\\LetterController.cs",
+              "RelativeToolTip": "PredictionApplication\\Controllers\\LetterController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwBwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T08:33:42.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SicknessType.cs",
+              "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionApplication\\Enums\\SicknessType.cs",
+              "RelativeDocumentMoniker": "PredictionApplication\\Enums\\SicknessType.cs",
+              "ToolTip": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionApplication\\Enums\\SicknessType.cs",
+              "RelativeToolTip": "PredictionApplication\\Enums\\SicknessType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T14:35:56.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AgeFromDateTime.cs",
+              "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionApplication\\Extensions\\AgeFromDateTime.cs",
+              "RelativeDocumentMoniker": "PredictionApplication\\Extensions\\AgeFromDateTime.cs",
+              "ToolTip": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionApplication\\Extensions\\AgeFromDateTime.cs",
+              "RelativeToolTip": "PredictionApplication\\Extensions\\AgeFromDateTime.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:22:21.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISicknessType.cs",
+              "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionApplication\\Interfaces\\ISicknessType.cs",
+              "RelativeDocumentMoniker": "PredictionApplication\\Interfaces\\ISicknessType.cs",
+              "ToolTip": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionApplication\\Interfaces\\ISicknessType.cs",
+              "RelativeToolTip": "PredictionApplication\\Interfaces\\ISicknessType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:38:37.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "PredictionTestProject.csproj",
               "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionTestProject\\PredictionTestProject.csproj",
               "RelativeDocumentMoniker": "PredictionTestProject\\PredictionTestProject.csproj",
@@ -224,19 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "LetterServiceTests.cs",
-              "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionTestProject\\Services\\LetterServiceTests.cs",
-              "RelativeDocumentMoniker": "PredictionTestProject\\Services\\LetterServiceTests.cs",
-              "ToolTip": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionTestProject\\Services\\LetterServiceTests.cs",
-              "RelativeToolTip": "PredictionTestProject\\Services\\LetterServiceTests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T09:11:52.055Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionApplication\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "PredictionApplication\\Properties\\launchSettings.json",
@@ -248,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "PredictionApplication.http",
               "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionApplication\\PredictionApplication.http",
               "RelativeDocumentMoniker": "PredictionApplication\\PredictionApplication.http",
@@ -260,19 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Letter.cs",
-              "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionApplication\\Models\\Letter.cs",
-              "RelativeDocumentMoniker": "PredictionApplication\\Models\\Letter.cs",
-              "ToolTip": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionApplication\\Models\\Letter.cs",
-              "RelativeToolTip": "PredictionApplication\\Models\\Letter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T14:25:59.073Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "PredictionApplication",
               "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionApplication\\PredictionApplication.csproj",
               "RelativeDocumentMoniker": "PredictionApplication\\PredictionApplication.csproj",
@@ -283,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionApplication\\appsettings.json",
               "RelativeDocumentMoniker": "PredictionApplication\\appsettings.json",
@@ -295,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "PredictionApplication.csproj",
               "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\PredictionApplication\\PredictionApplication\\PredictionApplication.csproj",
               "RelativeDocumentMoniker": "PredictionApplication\\PredictionApplication.csproj",

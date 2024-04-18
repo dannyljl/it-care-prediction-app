@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PredictionApplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71e9c224ca500d56000a340c1a98b8242c6fb574")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d25d258448ce9efdd7119bbb700665f9ab83c5d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("PredictionApplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PredictionApplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,9 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using PredictionApplication.Enums;
-using PredictionApplication.Exceptions;
 using PredictionApplication.Extensions;
 using PredictionApplication.Factories;
-using PredictionApplication.Interfaces;
 using PredictionApplication.Models;
 using PredictionApplication.Services;
 

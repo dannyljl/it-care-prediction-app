@@ -2,6 +2,7 @@
 using PredictionApplication.Enums;
 using PredictionApplication.Exceptions;
 using PredictionApplication.Extensions;
+using PredictionApplication.Factories;
 using PredictionApplication.Interfaces;
 using PredictionApplication.Models;
 using PredictionApplication.Services;
@@ -32,20 +33,7 @@ namespace PredictionApplication.Controllers
             }
             try
             {
-                ILetterService _letterService;
-
-                if (sicknessType == SicknessType.Physical)
-                {
-                    _letterService = new LetterService(new PhysicalSicknessType());
-                }
-                else if (sicknessType == SicknessType.Mental)
-                {
-                    _letterService = new LetterService(new MentalSicknessType());
-                }
-                else
-                {
-                    throw new UnsupportedEnumTypeException("Sickness type not found, type:" + sicknessType.ToString());
-                }
+                ILetterService _letterService = new LetterService(SicknessTypePredictorFactory.PredictorFromType(sicknessType));
 
                 return Ok(_letterService.CreateLetter(client, sicknessType));
             }
